@@ -415,6 +415,7 @@
 				2EFE304F18E657EB003CBAFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EFE305018E657EB003CBAFD /* Build configuration list for PBXNativeTarget "CGDocumentTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				2EFE305218E657EB003CBAFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
